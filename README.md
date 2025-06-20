@@ -1,4 +1,4 @@
-# BULL-FORCE
+# BRUTE-FORCE
 BULL𓄀FORCE - Bruteforcing Tool, Ramm!!
 
 🔐 Brute Force Login Testing Tool (Python)
