@@ -1,5 +1,5 @@
 # BRUTE-FORCE
-BULL𓄀FORCE - Bruteforcing Tool, Ramm!!
+Brute𓄀FORCE - Bruteforcing Tool, Ramm!!
 
 🔐 Brute Force Login Testing Tool (Python)
 This project is a Python-based brute-force password testing tool designed to evaluate the strength of login forms. It attempts multiple password combinations from a wordlist to identify weak credentials on a target web login page.
